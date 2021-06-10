@@ -1,0 +1,22 @@
+{
+    "xData": ["May-20","Jun-20","Jul-20","Aug-20","Sep-20","Oct-20","Nov-20","Dec-20","Jan-21","Feb-21","Mar-21","Apr-21","May-21","Jun-21"],
+    "datasets": [{
+        "name": "Total INC",
+        "data": [51,376,468,505,413,451,329,422,410,808,146,100,100,100],
+        "unit": "INC",
+        "type": "line",
+        "valueDecimals": 1
+    }, {
+        "name": "Site Count",
+        "data": [8,8,9,10,10,10,11,11,12,13,13,14,15,15],
+        "unit": "Whse",
+        "type": "area",
+        "valueDecimals": 0
+    }, {
+        "name": "Avg Per Site",
+        "data": [6,47,52,50,41,45,29,38,34,62,11,21,20,20],
+        "unit": " ",
+        "type": "line",
+        "valueDecimals": 0
+    }]
+  
