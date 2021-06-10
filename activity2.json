@@ -1,0 +1,22 @@
+{
+    "xData": [1,2,3,4,5],
+    "datasets": [{
+        "name": "Speed",
+        "data": [1,2,3,4,5],
+        "unit": "km/h",
+        "type": "line",
+        "valueDecimals": 1
+    }, {
+        "name": "Elevation",
+        "data": [10,11,12,13,14],
+        "unit": "m",
+        "type": "area",
+        "valueDecimals": 0
+    }, {
+        "name": "Heart rate",
+        "data": [0,3,2,1,2],
+        "unit": "bpm",
+        "type": "area",
+        "valueDecimals": 0
+    }]
+}
