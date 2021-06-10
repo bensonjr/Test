@@ -1,5 +1,5 @@
 {
-    "xData": ["May-20","Jun-20","Jul-20","Aug-20","Sep-20","Oct-20","Nov-20","Dec-20","Jan-21","Feb-21","Mar-21","Apr-21","May-21","Jun-21"],
+    "xData": ["May20","Jun20","Jul20","Aug20","Sep20","Oct20","Nov20","Dec20","Jan21","Feb21","Mar21","Apr21","May21","Jun21"],
     "datasets": [{
         "name": "Total INC",
         "data": [51,376,468,505,413,451,329,422,410,808,146,100,100,100],
