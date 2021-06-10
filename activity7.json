@@ -10,13 +10,13 @@
         "name": "Site Count",
         "data": [8,9,10,10,10,11,11,12,13,13,14,14],
         "unit": "Whse",
-        "type": "area",
+        "type": "line",
         "valueDecimals": 0
     }, {
-        "name": "Avg Per Site",
+        "name": "Avg INC Per Site",
         "data": [30.75,39.4444444444444,33.8,30.3,32.9,21.7272727272727,28.4545454545455,26,29.6923076923077,37.5384615384615,34.2142857142857,32.0714285714286],
         "unit": " ",
-        "type": "line",
+        "type": "area",
         "valueDecimals": 0
    }]    
 }
