@@ -10,7 +10,7 @@
         "name": "Site Count",
         "data": [8,9,10,10,10,11,11,12,13,13,14,14],
         "unit": "Whse",
-        "type": "line",
+        "type": "area",
         "valueDecimals": 0
     }, {
         "name": "Avg INC Per Site",
