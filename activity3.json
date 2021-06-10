@@ -6,17 +6,5 @@
         "unit": "INC",
         "type": "line",
         "valueDecimals": 1
-    }, {
-        "name": "Site Count",
-        "data": [8,8,9,10,10,10,11,11,12,13,13,14,15,15],
-        "unit": "Whse",
-        "type": "area",
-        "valueDecimals": 0
-    }, {
-        "name": "Avg Per Site",
-        "data": [6,47,52,50,41,45,29,38,34,62,11,21,20,20],
-        "unit": " ",
-        "type": "line",
-        "valueDecimals": 0
-    }]
+    } ]
   
