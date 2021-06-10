@@ -1,22 +1,21 @@
 {
-    "xData": [1,2,3,4,5],
+    "xData": [May-20,Jun-20,Jul-20,Aug-20,Sep-20,Oct-20,Nov-20,Dec-20,Jan-21,Feb-21,Mar-21,Apr-21,May-21,Jun-21],
     "datasets": [{
-        "name": "Speed",
-        "data": [1,2,3,4,5],
-        "unit": "km/h",
+        "name": "Total INC",
+        "data": [51,376,468,505,413,451,329,422,410,808,146,100,100,100],
+        "unit": "INC",
         "type": "line",
         "valueDecimals": 1
     }, {
-        "name": "Elevation",
-        "data": [10,11,12,13,100],
-        "unit": "m",
+        "name": "Site Count",
+        "data": [8,8,9,10,10,10,11,11,12,13,13,14,15,15],
+        "unit": "Whse",
         "type": "area",
         "valueDecimals": 0
     }, {
-        "name": "Heart rate",
-        "data": [0,3,2,1,2],
-        "unit": "bpm",
-        "type": "area",
+        "name": "Avg Per Site",
+        "data": [6.375,47,52,50.5,41.3,45.1,29.90909091,38.36363636,34.16666667,62.15384615,11.23076923,21.42857143,20,20],
+        "unit": " ",
+        "type": "line",
         "valueDecimals": 0
     }]
-}
