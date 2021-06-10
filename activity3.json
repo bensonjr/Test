@@ -1,10 +1,22 @@
 {
-    "xData": [1,2,3,4,5,6,7,8,9,10,11,12,13,14],
+    "xData": ["1Jan","2","3","4","5"],
     "datasets": [{
-        "name": "Total INC",
-        "data": [51,376,468,505,413,451,329,422,410,808,146,100,100,100],
-        "unit": "INC",
+        "name": "Speed",
+        "data": [1,2,3,4,5],
+        "unit": "km/h",
         "type": "line",
         "valueDecimals": 1
-    } ]
-  
+    }, {
+        "name": "Elevation",
+        "data": [10,11,12,13,14],
+        "unit": "m",
+        "type": "area",
+        "valueDecimals": 0
+    }, {
+        "name": "Heart rate",
+        "data": [0,3,2,1,2],
+        "unit": "bpm",
+        "type": "area",
+        "valueDecimals": 0
+    }]
+}
